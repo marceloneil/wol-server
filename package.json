@@ -1,0 +1,13 @@
+{
+  "name": "wol-server",
+  "version": "1.0.0",
+  "description": "Wake-On-Lan Server",
+  "main": "index.js",
+  "repository": "https://github.com/marceloneil/wol-server.git",
+  "author": "Marcel O'Neil <marcel@marceloneil.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "wol": "^1.0.3"
+  }
+}
